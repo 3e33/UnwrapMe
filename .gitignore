@@ -1,0 +1,12 @@
+/.cache/
+/.vs/
+/__pycache__/
+**/build/
+/compile_commands.json
+/out/UnwrapMe/*.dll
+/out/UnwrapMe/*.pyd
+/out/UnwrapMe/*.so
+/dep/*/*
+/packages/*
+*.zip
+!.gitkeep

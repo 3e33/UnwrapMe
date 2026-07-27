@@ -1,0 +1,27 @@
+# Copyright (C) 2026-2026 Elias V.
+# SPDX-License-Identifier: GPL-3.0-only
+
+schema_version = "1.0.0"
+
+id = "UnwrapMe"
+version = "0.19.0"
+name = "Unwrap Me"
+tagline = "Automagically generate UV seams and more"
+maintainer = "Memm"
+type = "add-on"
+
+website = "https://superhivemarket.com/creators/shiftatechnologies"
+
+tags = ["Mesh", "UV"]
+
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-only",
+]
+
+copyright = [
+  "2023-2026 Elias V."
+]
+
+platforms = ["windows-x64", "linux-x64"]
